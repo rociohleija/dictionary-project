@@ -19,13 +19,13 @@ export default function App() {
       </main>
       <footer className="App-footer text-center">
         This project was coded by {" "}
-      <a href="https://astonishing-pixie-d099a0.netlify.app/" target="_blank" rel="noopener noreferre">
+      <a href="https://astonishing-pixie-d099a0.netlify.app/" target="_blank" rel="noopener noreferrer">
         Rocio Hernandez
       </a>{" "}
       and is{" "}
       <a href="https://github.com/rociohleija/dictionary-project"
       target="_blank"
-      re="noopener noreferre"
+      rel="noopener noreferrer"
       >
         open-source on GitHub.
       </a>
