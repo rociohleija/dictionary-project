@@ -1,7 +1,9 @@
+import React from 'react'; 
+import Dictionary from './Dictionary';
 import Letters from './Letters.jpg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import Dictionary from './Dictionary'
+
 
 export default function App() {
   return (
