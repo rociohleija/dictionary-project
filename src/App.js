@@ -12,7 +12,7 @@ export default function App() {
       <header className="App-header">
         <img src={Letters} 
         className="App-Letters" 
-        alt="image" />
+        alt="letters" />
       </header>
       <main>
         <Dictionary />
