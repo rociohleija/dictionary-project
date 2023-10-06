@@ -15,7 +15,7 @@ export default function App() {
         alt="letters" />
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="dictionary" />
       </main>
       <footer className="App-footer text-center">
         This project was coded by {" "}
