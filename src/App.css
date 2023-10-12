@@ -1,12 +1,12 @@
-.App {
-  max-width: 960px;
-  margin: 0 auto;
-}
 body {
   background: #84B4F9;
 }
 a {
   color: #9670f4;
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 .App-header {
   margin: 30px 
@@ -16,6 +16,11 @@ a {
   display: block;
   margin: 0 auto;
   border-radius: 25px;
+  transition: all 150ms ease-in-out;
+} 
+.App-Letters:hover {
+  filter: contrast(130%);
+  transform: scale(1.1);
 }
 .App h1 {
   font-size: 60px;
