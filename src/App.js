@@ -24,14 +24,15 @@ export default function App() {
       href="https://astonishing-pixie-d099a0.netlify.app/" 
       target="_blank" 
       rel="noopener noreferrer">
-        Rocio Hernandez
-      </a>{" "}
-      and is{" "}
-      <a href="https://github.com/rociohleija/dictionary-project"
+        Rocio Hernandez.
+      </a>
+      <br />
+      {" "}
+      <a href="https://www.istockphoto.com/portfolio/busracavus?mediatype=photography"
       target="_blank"
       rel="noopener noreferrer"
       >
-        open-source on GitHub.
+       Logo Credit.
       </a>
       </footer>
       </div>
