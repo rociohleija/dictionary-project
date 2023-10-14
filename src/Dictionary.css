@@ -1,21 +1,26 @@
 .Dictionary h2 {
     font-weight: bold;
     margin-bottom: 20px;
+    color: rgb(57, 148, 142);
+    font-family: 'Calistoga', serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
   }
   
   .Dictionary section {
-    background: #FECBCA;
     padding: 30px;
     border-radius: 6px;
     box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
     margin: 20px 0;
+    background: rgb(254, 203, 202);
   }
   
   .Dictionary input {
     width: 100%;
     border-radius: 6px;
     padding: 6px 10px;
-    color: #39948E;
+    color: rgb(57, 148, 142);
     border: 1px solid #ddd;
   }
   

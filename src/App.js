@@ -11,7 +11,7 @@ export default function App() {
       <div className="container">
       <header className="App-header">
         <img src={Letters} 
-        className="App-Letters" 
+        className="App-Letters mb-2" 
         alt="letters" />
         <h1 className="text-center">Dictionary</h1>
       </header>

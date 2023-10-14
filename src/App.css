@@ -1,8 +1,5 @@
 body {
-  background: #84B4F9;
-}
-a {
-  color: #9670f4;
+  background: radial-gradient(circle at 10% 20%, rgb(89, 195, 195) 0%, rgb(14, 175, 181) 90%);
 }
 .App {
   max-width: 960px;
@@ -14,7 +11,8 @@ a {
 .App-Letters {
   max-width:300px;
   display: block;
-  margin: 0 auto;
+  margin:  auto;
+  padding: 20;
   border-radius: 25px;
   transition: all 150ms ease-in-out;
 } 
@@ -24,7 +22,16 @@ a {
 }
 .App h1 {
   font-size: 60px;
+  color: rgb(248, 55, 53);
+  font-family: Pacifico;
+}
+.App .bg-style {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 }
 .App-footer {
   margin: 30px 0;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(248, 55, 53);
+  font-weight:300px;
+  
 }
