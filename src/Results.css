@@ -1,3 +1,10 @@
+Results {
+    color: rgb(57, 148, 142);
+    font-family: 'Calistoga', serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
 Results h2 {
     font-size: 36px;
     font-weight: bold;
