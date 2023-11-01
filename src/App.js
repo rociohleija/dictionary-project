@@ -13,7 +13,7 @@ export default function App() {
         <img src={Letters} 
         className="App-Letters mb-2" 
         alt="letters" />
-        <h1 className="text-center">Dictionary</h1>
+        <h1 className="text-center">Style Dictionary</h1>
       </header>
       <main>
         <Dictionary defaultKeyword="dictionary" />
